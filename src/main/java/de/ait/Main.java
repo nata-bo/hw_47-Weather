@@ -3,8 +3,10 @@ package de.ait;
 public class Main {
     public static void main(String[] args) {
         //Создайте класс WeatherTools c методом
-        //
-        //public static String getWindDescription(double speed, boolean isGusty) Этот метод принимает скорость ветра и параметр сообщающий является ли ветер порывистым. Корреляция скорости ветра и описания:
+
+        //public static String getWindDescription(double speed, boolean isGusty)
+        // Этот метод принимает скорость ветра и параметр сообщающий является ли ветер порывистым.
+        // Корреляция скорости ветра и описания:
         //<1 == Calm
         //1-5 == Light Air
         //6-11 == Light Breeze
